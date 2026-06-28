@@ -1,0 +1,2 @@
+TEST_VAR="Hello from /etc/environment"
+APP_ENV=production

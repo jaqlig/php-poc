@@ -1,0 +1,7 @@
+{
+    "name": "poc/php-app",
+    "description": "PoC PHP 8.x Apache",
+    "require": {
+        "predis/predis": "^2.2"
+    }
+}
